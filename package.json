@@ -12,7 +12,9 @@
   "repository": "",
   "dependencies": {
     "epub-parser": ">=0.2.1",
-    "epub2html": ">=0.0.6"
+    "epub2html": ">=0.0.6",
+    "mkdirp": ">=0.3.5",
+    "filequeue":">=0.1.2"
   },
   "author": "vaporbook",
   "license": "BSD",
